@@ -33,8 +33,11 @@
       </form>
     </div>
     
-     <ul class="navbar-nav mr-auto ml-auto">
-            <li class="nav-item">
-                <div class="justify-content-md-center">
+     
   </div>
 </nav>
+
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto ml-auto">
+            <li class="nav-item">
+                <div class="justify-content-md-center">
