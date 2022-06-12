@@ -32,5 +32,9 @@
         <button class="btn btn-outline-success" type="submit">Search</button>
       </form>
     </div>
+    
+     <ul class="navbar-nav mr-auto ml-auto">
+            <li class="nav-item">
+                <div class="justify-content-md-center">
   </div>
 </nav>
